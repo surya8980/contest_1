@@ -10,7 +10,7 @@
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 
 ### Problem 3
-- [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
+- [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1208295052/)
 
 ### Problem 4
 - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
@@ -43,7 +43,7 @@
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/submissions/1208005463/)
 
 ### Problem 14
-- [Single Number II](https://leetcode.com/problems/single-number-ii/description/)
+- [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/1208298707/)
 
 ### Problem 15
 - [Power of Four](https://leetcode.com/problems/power-of-four/submissions/1207159616/)
